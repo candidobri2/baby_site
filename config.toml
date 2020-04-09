@@ -46,6 +46,12 @@ URL = "contact"
 name = "Contato"
 weight = 5
 
+[[menu.main]]
+URL = "teste"
+name = "Teste"
+weight = 6
+
+
 # default parameters
 [params]
 home = "Home"
